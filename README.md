@@ -6,5 +6,5 @@ Repository with my python codes. This repository will be used to my lerning, and
 
 Use only Python >= 3 
 
-   pip install -r DIRECTORY/requirements.txt
-   python DIRECTORY/FILE.py
+    pip install -r DIRECTORY/requirements.txt
+    python DIRECTORY/FILE.py
